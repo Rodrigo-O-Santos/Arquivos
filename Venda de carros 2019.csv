@@ -1,51 +1,51 @@
-Ranking;Modelo;Unidades Vendidas
-1;GM Onix;241214
-2;Ford Ka;104331
-3;Hyundai HB20;101590
-4;Renault Kwid;85117
-5;VW Gol;81285
-6;Fiat Argo;79001
-7;GM Prisma;73721
-8;VW Polo;72057
-9;Jeep Renegade;68726
-10;Jeep Compass;60362
-11;Hyundai Creta;57460
-12;Toyota Corolla;56727
-13 ;Nissan Kicks;56062
-14;Fiat Mobi;53444
-15;Ford Ka Sedan;51260
-16;Renault Sandero;50303
-17;Honda HR-V;49488
-18;VW Virtus;46876
-19;VW Fox/Cross Fox;38487
-20;Toyota Yaris Hb;37686
-21;VW T Cross;37081
-22;Hyundai HB20S;34893
-23;Ford EcoSport;34206
-24;VW Voyage;32055
-25;Toyota Yaris Sedan;29759
-26;Renault Captur;28660
-27;GM Spin;28361
-28;Honda Civic;27318
-29;Renault Logan;27003
-30;GM Onix Plus;26852
-31;Renault Duster;26090
-32;Honda Fit;24457
-33;Fiat Cronos;24080
-34;Nissan Versa;21779
-35;Fiat Uno;19928
-36;Toyota Etios Hb;18963
-37;GM Cruze Sedan;17829
-38;Citroen C4 Cactus;16438
-39;GM Tracker;16333
-40;Fiat Siena;16188
-41;Honda City;14578
-42;Toyota Hilux Sw4;13523
-43;VW Up;13460
-44;Toyota Etios Sedan;13305
-45;GM Cobalt;13103
-46;VW Tiguan;13074
-47;Honda WR-V;12160
-48;VW Jetta;11248
-49;Peugeot 2008;8693
-50;Chery Tiggo 5X;7971
+Ranking,Modelo,Unidades Vendidas
+1,GM Onix,241214
+2,Ford Ka,104331
+3,Hyundai HB20,101590
+4,Renault Kwid,85117
+5,VW Gol,81285
+6,Fiat Argo,79001
+7,GM Prisma,73721
+8,VW Polo,72057
+9,Jeep Renegade,68726
+10,Jeep Compass,60362
+11,Hyundai Creta,57460
+12,Toyota Corolla,56727
+13,Nissan Kicks,56062
+14,Fiat Mobi,53444
+15,Ford Ka Sedan,51260
+16,Renault Sandero,50303
+17,Honda HR-V,49488
+18,VW Virtus,46876
+19,VW Fox/Cross Fox,38487
+20,Toyota Yaris Hb,37686
+21,VW T Cross,37081
+22,Hyundai HB20S,34893
+23,Ford EcoSport,34206
+24,VW Voyage,32055
+25,Toyota Yaris Sedan,29759
+26,Renault Captur,28660
+27,GM Spin,28361
+28,Honda Civic,27318
+29,Renault Logan,27003
+30,GM Onix Plus,26852
+31,Renault Duster,26090
+32,Honda Fit,24457
+33,Fiat Cronos,24080
+34,Nissan Versa,21779
+35,Fiat Uno,19928
+36,Toyota Etios Hb,18963
+37,GM Cruze Sedan,17829
+38,Citroen C4 Cactus,16438
+39,GM Tracker,16333
+40,Fiat Siena,16188
+41,Honda City,14578
+42,Toyota Hilux Sw4,13523
+43,VW Up,13460
+44,Toyota Etios Sedan,13305
+45,GM Cobalt,13103
+46,VW Tiguan,13074
+47,Honda WR-V,12160
+48,VW Jetta,11248
+49,Peugeot 2008,8693
+50,Chery Tiggo 5X,7971
