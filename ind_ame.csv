@@ -1,0 +1,751 @@
+ÁREA,CARGO,CARGO-ÁREA,IDADE,GÊNERO,SATISFAÇÃO NO TRABALHO,AVALIAÇÃO DESEMPENHO,PARTICIPOU TREINAMENTO,METODOLOGIAS APLICADAS,AVALIAÇÃO DO TREINAMENTO,SUBORDINADOS
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,29,Feminino,1,4,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,33,Feminino,4,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,45,Feminino,4,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,50,Masculino,4,4,-,-,-,-
+Atendimento ao cliente,Especialista,Gerente - Atendimento ao cliente,33,Feminino,2,3,-,-,-,-
+Atendimento ao cliente,Especialista,Gerente - Atendimento ao cliente,41,Masculino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,27,Feminino,2,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,45,Masculino,1,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,30,Feminino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,50,Masculino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,38,Masculino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,46,Masculino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,24,Feminino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,35,Masculino,2,4,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,31,Feminino,1,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,18,Masculino,4,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,54,Feminino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,35,Feminino,3,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,30,Feminino,1,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,20,Feminino,1,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,30,Feminino,2,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,26,Masculino,4,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,22,Masculino,1,3,-,-,-,-
+Atendimento ao cliente,Gerente,Gerente - Atendimento ao cliente,48,Masculino,1,1,SIM,NÃO,RUIM,10
+Atendimento ao cliente,Gerente,Gerente - Atendimento ao cliente,48,Masculino,1,2,SIM,NÃO,RUIM,10
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,41,Feminino,3,3,-,-,-,-
+Atendimento ao cliente,Gerente,Gerente - Atendimento ao cliente,39,Feminino,4,3,SIM,SIM,ÓTIMO,14
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,27,Feminino,4,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,35,Masculino,4,4,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,50,Masculino,4,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,59,Feminino,4,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,37,Feminino,2,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,55,Masculino,2,3,-,-,-,-
+Atendimento ao cliente,Analista,Gerente - Atendimento ao cliente,41,Feminino,3,4,-,-,-,-
+Comercial,Especialista,Gerente - Comercial,41,Feminino,4,3,-,-,-,-
+Comercial,Especialista,Gerente - Comercial,53,Feminino,4,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,36,Masculino,1,4,SIM,NÃO,ÓTIMO,10
+Comercial,Gerente,Gerente - Comercial,42,Masculino,2,3,SIM,SIM,REGULAR,8
+Comercial,Gerente,Gerente - Comercial,46,Feminino,1,3,SIM,SIM,ÓTIMO,8
+Comercial,Analista,Gerente - Comercial,39,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,50,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,33,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Masculino,3,4,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,46,Masculino,4,4,SIM,SIM,ÓTIMO,8
+Comercial,Gerente,Gerente - Comercial,44,Feminino,1,4,SIM,SIM,ÓTIMO,8
+Comercial,Analista,Gerente - Comercial,26,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Masculino,1,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,59,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,59,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,55,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,23,Masculino,1,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,46,Masculino,4,3,SIM,SIM,ÓTIMO,8
+Comercial,Analista,Gerente - Comercial,51,Masculino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,24,Feminino,3,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,28,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,58,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Masculino,3,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,37,Masculino,4,3,SIM,SIM,ÓTIMO,9
+Comercial,Gerente,Gerente - Comercial,36,Feminino,4,3,SIM,NÃO,BOM,9
+Comercial,Gerente,Gerente - Comercial,43,Masculino,4,3,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,33,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,19,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,50,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Feminino,3,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,41,Masculino,3,3,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,39,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,53,Masculino,3,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Feminino,4,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,40,Masculino,4,3,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,34,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Feminino,4,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,38,Feminino,4,4,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,19,Feminino,1,4,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,45,Feminino,1,3,SIM,SIM,ÓTIMO,7
+Comercial,Gerente,Gerente - Comercial,46,Feminino,1,4,SIM,SIM,ÓTIMO,7
+Comercial,Gerente,Gerente - Comercial,41,Feminino,2,4,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,29,Feminino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Feminino,3,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,41,Feminino,4,3,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,30,Feminino,1,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,45,Feminino,4,3,SIM,NÃO,REGULAR,7
+Comercial,Analista,Gerente - Comercial,54,Feminino,1,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,38,Masculino,3,3,SIM,SIM,ÓTIMO,7
+Comercial,Gerente,Gerente - Comercial,37,Masculino,4,3,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,29,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,50,Feminino,4,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,43,Feminino,4,4,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,52,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Masculino,4,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,38,Masculino,4,3,SIM,SIM,BOM,7
+Comercial,Gerente,Gerente - Comercial,46,Feminino,2,3,SIM,SIM,BOM,7
+Comercial,Analista,Gerente - Comercial,29,Masculino,2,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,37,Masculino,4,3,SIM,SIM,BOM,7
+Comercial,Gerente,Gerente - Comercial,38,Feminino,1,4,SIM,SIM,BOM,7
+Comercial,Gerente,Gerente - Comercial,42,Masculino,3,4,SIM,SIM,BOM,7
+Comercial,Analista,Gerente - Comercial,29,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,26,Masculino,4,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,42,Feminino,2,3,SIM,SIM,BOM,7
+Comercial,Analista,Gerente - Comercial,35,Masculino,2,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,41,Masculino,2,3,SIM,NÃO,REGULAR,7
+Comercial,Analista,Gerente - Comercial,18,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,39,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,33,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Masculino,2,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,40,Masculino,4,4,SIM,SIM,REGULAR,7
+Comercial,Analista,Gerente - Comercial,30,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,47,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,48,Feminino,3,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,26,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,21,Feminino,2,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,36,Feminino,4,3,SIM,SIM,ÓTIMO,7
+Comercial,Gerente,Gerente - Comercial,36,Masculino,4,3,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,21,Masculino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,33,Feminino,3,3,-,-,-,-
+Comercial,Gerente,Gerente - Comercial,41,Masculino,2,3,SIM,SIM,ÓTIMO,7
+Comercial,Analista,Gerente - Comercial,40,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,21,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,28,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,51,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,24,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,36,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,40,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,56,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,41,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,24,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,40,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,57,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,60,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,46,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,36,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,48,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,55,Feminino,2,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,41,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,45,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,18,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,40,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,26,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,41,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,37,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,24,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,26,Masculino,2,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,37,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,21,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,33,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,53,Feminino,1,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,45,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Masculino,2,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,38,Feminino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,48,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Feminino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,24,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,50,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,47,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,40,Masculino,1,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,60,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,50,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,47,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Masculino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,43,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,52,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Feminino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,45,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,47,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Masculino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,36,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,26,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,27,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,34,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,33,Feminino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,49,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,55,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,28,Feminino,2,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,51,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,33,Masculino,1,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,36,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,53,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,45,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,37,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,32,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,38,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,53,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,37,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,47,Feminino,4,4,-,-,-,-
+Comercial,Analista,Gerente - Comercial,37,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,28,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,20,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,47,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,42,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,31,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,25,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,40,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,26,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,19,Masculino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,36,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,37,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,29,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Feminino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,53,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,30,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,38,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,35,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,39,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,40,Feminino,2,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,36,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,33,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,47,Feminino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,42,Masculino,3,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,38,Masculino,4,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,26,Masculino,1,3,-,-,-,-
+Comercial,Analista,Gerente - Comercial,52,Feminino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,33,Masculino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,33,Feminino,1,4,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,32,Masculino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,39,Feminino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,41,Masculino,1,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,40,Masculino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,45,Masculino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,31,Masculino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,33,Feminino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,34,Masculino,1,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,37,Feminino,1,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,45,Masculino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,37,Masculino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,39,Feminino,3,4,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,29,Masculino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,42,Feminino,1,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,25,Feminino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,42,Feminino,1,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,40,Masculino,3,3,-,-,-,-
+Financeiro,Gerente,Gerente - Financeiro,51,Masculino,4,3,SIM,SIM,BOM,8
+Financeiro,Analista,Gerente - Financeiro,31,Masculino,2,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,32,Masculino,2,4,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,32,Masculino,1,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,28,Masculino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,31,Masculino,4,4,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,25,Masculino,1,3,-,-,-,-
+Financeiro,Especialista,Gerente - Financeiro,45,Masculino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,36,Masculino,4,3,-,-,-,-
+Financeiro,Gerente,Gerente - Financeiro,55,Masculino,1,3,SIM,SIM,BOM,8
+Financeiro,Gerente,Gerente - Financeiro,47,Masculino,2,3,SIM,SIM,BOM,8
+Financeiro,Analista,Gerente - Financeiro,28,Masculino,4,4,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,21,Masculino,3,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,37,Feminino,4,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,35,Feminino,2,3,-,-,-,-
+Financeiro,Analista,Gerente - Financeiro,26,Feminino,2,4,-,-,-,-
+Financeiro,Gerente,Gerente - Financeiro,50,Masculino,2,3,SIM,SIM,BOM,12
+Marketing,Especialista,Gerente - Marketing,49,Masculino,2,4,-,-,-,-
+Marketing,Especialista,Gerente - Marketing,37,Masculino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,33,Feminino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,27,Masculino,2,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,32,Masculino,4,3,-,-,-,-
+Marketing,Gerente,Gerente - Marketing,59,Feminino,1,4,SIM,SIM,ÓTIMO,10
+Marketing,Analista,Gerente - Marketing,30,Masculino,3,4,-,-,-,-
+Marketing,Analista,Gerente - Marketing,38,Masculino,3,4,-,-,-,-
+Marketing,Analista,Gerente - Marketing,36,Masculino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,35,Masculino,2,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,29,Feminino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,31,Masculino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,34,Masculino,4,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,28,Masculino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,29,Feminino,1,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,32,Masculino,2,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,22,Masculino,4,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,38,Masculino,4,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,24,Feminino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,34,Feminino,2,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,21,Masculino,4,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,34,Masculino,1,3,-,-,-,-
+Marketing,Gerente,Gerente - Marketing,53,Feminino,3,3,SIM,SIM,BOM,5
+Marketing,Analista,Gerente - Marketing,32,Feminino,1,4,-,-,-,-
+Marketing,Gerente,Gerente - Marketing,44,Feminino,4,3,SIM,SIM,ÓTIMO,10
+Marketing,Analista,Gerente - Marketing,33,Masculino,4,3,-,-,-,-
+Marketing,Gerente,Gerente - Marketing,44,Masculino,4,3,SIM,SIM,ÓTIMO,10
+Marketing,Analista,Gerente - Marketing,30,Masculino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,24,Masculino,4,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,43,Feminino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,36,Feminino,1,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,35,Masculino,4,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,27,Feminino,1,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,26,Masculino,3,3,-,-,-,-
+Marketing,Analista,Gerente - Marketing,30,Feminino,4,4,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,52,Masculino,2,3,SIM,NÃO,REGULAR,7
+Novos negócios,Analista,Gerente - Novos negócios,27,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,28,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Feminino,3,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,39,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,47,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,43,Feminino,3,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,54,Feminino,3,3,SIM,SIM,REGULAR,7
+Novos negócios,Analista,Gerente - Novos negócios,43,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,45,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,23,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,41,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Masculino,1,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,42,Masculino,4,4,SIM,SIM,REGULAR,7
+Novos negócios,Gerente,Gerente - Novos negócios,57,Masculino,3,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,40,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Feminino,1,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,46,Feminino,3,3,-,-,-,-
+Novos negócios,Especialista,Gerente - Novos negócios,50,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Masculino,2,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,49,Masculino,3,4,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,36,Feminino,3,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,55,Feminino,4,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,26,Masculino,1,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,22,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Masculino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,43,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,40,Feminino,3,4,-,-,-,-
+Novos negócios,Especialista,Gerente - Novos negócios,54,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,43,Masculino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,43,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,39,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,28,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,25,Masculino,1,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,52,Masculino,3,3,SIM,SIM,ÓTIMO,6
+Novos negócios,Analista,Gerente - Novos negócios,45,Masculino,4,4,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,52,Feminino,4,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,42,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Feminino,4,4,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,60,Feminino,1,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,46,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Masculino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,26,Feminino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Feminino,2,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,50,Masculino,3,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,30,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,47,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,46,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,3,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,54,Feminino,3,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,34,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Masculino,2,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,22,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,40,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,39,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Masculino,1,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,41,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,26,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,46,Feminino,3,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,52,Masculino,1,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,38,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Feminino,2,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,49,Masculino,3,3,NÃO,NÃO,-,7
+Novos negócios,Analista,Gerente - Novos negócios,24,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,24,Masculino,2,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,24,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,20,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,43,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,43,Masculino,3,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,48,Feminino,1,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,44,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,22,Masculino,3,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Feminino,3,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,26,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Masculino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,36,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,20,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,23,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,37,Masculino,4,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,50,Masculino,3,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,34,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,39,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,4,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,53,Masculino,3,3,SIM,NÃO,REGULAR,7
+Novos negócios,Analista,Gerente - Novos negócios,27,Masculino,1,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,28,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,36,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,44,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,23,Masculino,1,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,56,Masculino,4,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,40,Feminino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Feminino,1,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,53,Masculino,4,3,SIM,NÃO,REGULAR,7
+Novos negócios,Analista,Gerente - Novos negócios,35,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,23,Masculino,3,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,55,Masculino,1,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Gerente,Gerente - Novos negócios,52,Masculino,4,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,26,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Feminino,4,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,54,Feminino,1,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,37,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Masculino,3,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,40,Feminino,2,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,23,Masculino,1,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,24,Masculino,2,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,52,Feminino,3,4,SIM,SIM,ÓTIMO,7
+Novos negócios,Gerente,Gerente - Novos negócios,50,Masculino,3,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,29,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,47,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,36,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Masculino,3,4,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,58,Masculino,2,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,35,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,28,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,40,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Feminino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,45,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,43,Masculino,1,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,3,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,26,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,44,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,25,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,30,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,3,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,52,Feminino,4,4,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,22,Masculino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,44,Masculino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Feminino,3,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Feminino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Masculino,4,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,49,Feminino,1,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,24,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,42,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,35,Masculino,2,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,53,Feminino,4,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,43,Feminino,4,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,50,Masculino,1,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,32,Masculino,4,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,29,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,44,Masculino,1,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,58,Masculino,4,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,43,Feminino,2,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,21,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,36,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,22,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,41,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,28,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,39,Masculino,1,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,27,Feminino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,34,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Masculino,1,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,58,Feminino,2,3,NÃO,NÃO,-,7
+Novos negócios,Analista,Gerente - Novos negócios,35,Feminino,4,4,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,49,Feminino,2,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Gerente,Gerente - Novos negócios,48,Masculino,3,3,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,36,Masculino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,38,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,2,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,41,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,36,Masculino,3,4,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,20,Masculino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,40,Masculino,2,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,32,Feminino,1,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,33,Feminino,4,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,45,Masculino,2,3,-,-,-,-
+Novos negócios,Gerente,Gerente - Novos negócios,52,Masculino,4,3,NÃO,NÃO,-,7
+Novos negócios,Gerente,Gerente - Novos negócios,58,Masculino,3,4,SIM,SIM,ÓTIMO,7
+Novos negócios,Analista,Gerente - Novos negócios,47,Masculino,3,3,-,-,-,-
+Novos negócios,Analista,Gerente - Novos negócios,31,Masculino,1,4,-,-,-,-
+Operações,Gerente,Gerente - Operações,53,Masculino,3,3,SIM,SIM,BOM,8
+Operações,Especialista,Gerente - Operações,55,Masculino,4,3,-,-,-,-
+Operações,Analista,Gerente - Operações,26,Masculino,1,3,-,-,-,-
+Operações,Analista,Gerente - Operações,37,Feminino,4,3,-,-,-,-
+Operações,Analista,Gerente - Operações,44,Masculino,3,4,-,-,-,-
+Operações,Analista,Gerente - Operações,38,Masculino,4,3,-,-,-,-
+Operações,Analista,Gerente - Operações,26,Masculino,2,3,-,-,-,-
+Operações,Analista,Gerente - Operações,28,Feminino,4,4,-,-,-,-
+Operações,Gerente,Gerente - Operações,49,Feminino,1,3,SIM,SIM,BOM,6
+Operações,Analista,Gerente - Operações,36,Masculino,2,3,-,-,-,-
+Operações,Analista,Gerente - Operações,37,Masculino,4,3,-,-,-,-
+Operações,Analista,Gerente - Operações,18,Masculino,3,3,-,-,-,-
+Operações,Analista,Gerente - Operações,36,Masculino,4,3,-,-,-,-
+Operações,Gerente,Gerente - Operações,51,Masculino,2,3,NÃO,NÃO,-,6
+Operações,Analista,Gerente - Operações,28,Masculino,1,3,-,-,-,-
+Operações,Analista,Gerente - Operações,39,Masculino,4,3,-,-,-,-
+Operações,Analista,Gerente - Operações,36,Feminino,2,3,-,-,-,-
+Operações,Analista,Gerente - Operações,38,Feminino,2,3,-,-,-,-
+Operações,Especialista,Gerente - Operações,58,Masculino,3,3,-,-,-,-
+Operações,Analista,Gerente - Operações,31,Masculino,4,3,-,-,-,-
+Operações,Gerente,Gerente - Operações,45,Masculino,1,3,SIM,SIM,REGULAR,6
+Operações,Analista,Gerente - Operações,31,Masculino,4,3,-,-,-,-
+Operações,Analista,Gerente - Operações,33,Feminino,2,3,-,-,-,-
+Operações,Analista,Gerente - Operações,39,Masculino,1,3,-,-,-,-
+Operações,Analista,Gerente - Operações,43,Feminino,4,3,-,-,-,-
+Operações,Analista,Gerente - Operações,49,Feminino,3,3,-,-,-,-
+Recursos Humanos,Especialista,Gerente - Recursos Humanos,46,Masculino,2,4,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,37,Masculino,1,4,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,59,Feminino,4,4,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,54,Feminino,4,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,26,Feminino,3,4,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,30,Masculino,4,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,59,Masculino,3,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,31,Masculino,1,3,-,-,-,-
+Recursos Humanos,Gerente,Gerente - Recursos Humanos,42,Masculino,3,3,NÃO,NÃO,-,8
+Recursos Humanos,Analista,Gerente - Recursos Humanos,19,Masculino,4,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,34,Feminino,1,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,26,Feminino,3,3,-,-,-,-
+Recursos Humanos,Gerente,Gerente - Recursos Humanos,50,Masculino,2,3,SIM,SIM,ÓTIMO,8
+Recursos Humanos,Especialista,Gerente - Recursos Humanos,44,Feminino,3,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,54,Masculino,2,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,41,Masculino,4,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,41,Masculino,3,3,-,-,-,-
+Recursos Humanos,Gerente,Gerente - Recursos Humanos,39,Feminino,2,3,SIM,SIM,ÓTIMO,8
+Recursos Humanos,Analista,Gerente - Recursos Humanos,36,Masculino,2,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,34,Masculino,4,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,28,Masculino,4,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,36,Masculino,1,4,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,39,Feminino,4,3,-,-,-,-
+Recursos Humanos,Analista,Gerente - Recursos Humanos,33,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,41,Feminino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,37,Masculino,2,4,-,-,-,-
+TI,Analista,Gerente - TI,35,Masculino,4,3,-,-,-,-
+TI,Gerente,Gerente - TI,48,Masculino,3,3,SIM,SIM,ÓTIMO,9
+TI,Analista,Gerente - TI,28,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,35,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,33,Feminino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,35,Feminino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,31,Masculino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,37,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,32,Masculino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,38,Feminino,4,3,-,-,-,-
+TI,Gerente,Gerente - TI,50,Feminino,3,3,SIM,SIM,ÓTIMO,9
+TI,Analista,Gerente - TI,36,Feminino,3,3,-,-,-,-
+TI,Gerente,Gerente - TI,55,Feminino,3,3,SIM,SIM,ÓTIMO,9
+TI,Analista,Gerente - TI,36,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,45,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,35,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,36,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,29,Masculino,2,4,-,-,-,-
+TI,Analista,Gerente - TI,31,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,32,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,36,Feminino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,31,Feminino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,45,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,37,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,30,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,35,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,38,Feminino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,34,Masculino,2,3,-,-,-,-
+TI,Gerente,Gerente - TI,56,Masculino,4,3,SIM,SIM,ÓTIMO,9
+TI,Gerente,Gerente - TI,51,Masculino,4,4,NÃO,NÃO,-,9
+TI,Analista,Gerente - TI,30,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,40,Masculino,2,4,-,-,-,-
+TI,Analista,Gerente - TI,46,Masculino,1,3,-,-,-,-
+TI,Gerente,Gerente - TI,54,Feminino,3,3,SIM,SIM,ÓTIMO,9
+TI,Analista,Gerente - TI,44,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,32,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,20,Feminino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,34,Feminino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,37,Masculino,4,3,-,-,-,-
+TI,Gerente,Gerente - TI,50,Feminino,2,3,SIM,SIM,ÓTIMO,9
+TI,Analista,Gerente - TI,25,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,22,Feminino,4,3,-,-,-,-
+TI,Gerente,Gerente - TI,51,Feminino,1,4,SIM,SIM,ÓTIMO,9
+TI,Analista,Gerente - TI,34,Masculino,3,4,-,-,-,-
+TI,Analista,Gerente - TI,24,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,34,Feminino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,34,Feminino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,36,Feminino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,30,Masculino,3,4,-,-,-,-
+TI,Gerente,Gerente - TI,56,Feminino,2,3,SIM,SIM,ÓTIMO,6
+TI,Gerente,Gerente - TI,51,Masculino,3,3,SIM,SIM,ÓTIMO,6
+TI,Analista,Gerente - TI,26,Feminino,2,3,-,-,-,-
+TI,Gerente,Gerente - TI,58,Feminino,4,3,SIM,SIM,ÓTIMO,6
+TI,Analista,Gerente - TI,22,Masculino,4,3,-,-,-,-
+TI,Gerente,Gerente - TI,49,Feminino,1,3,NÃO,NÃO,-,6
+TI,Analista,Gerente - TI,43,Feminino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,36,Masculino,2,4,-,-,-,-
+TI,Gerente,Gerente - TI,51,Masculino,4,3,SIM,SIM,ÓTIMO,6
+TI,Analista,Gerente - TI,32,Feminino,1,4,-,-,-,-
+TI,Analista,Gerente - TI,45,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,38,Feminino,3,4,-,-,-,-
+TI,Analista,Gerente - TI,30,Feminino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,30,Feminino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,30,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,41,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,41,Masculino,1,4,-,-,-,-
+TI,Analista,Gerente - TI,19,Feminino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,40,Feminino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,45,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,29,Masculino,3,3,-,-,-,-
+TI,Gerente,Gerente - TI,51,Masculino,3,3,SIM,NÃO,BOM,6
+TI,Especialista,Gerente - TI,58,Feminino,2,4,-,-,-,-
+TI,Analista,Gerente - TI,22,Masculino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,27,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,28,Masculino,4,3,-,-,-,-
+TI,Especialista,Gerente - TI,57,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,27,Masculino,3,3,-,-,-,-
+TI,Gerente,Gerente - TI,50,Feminino,2,3,SIM,SIM,ÓTIMO,6
+TI,Analista,Gerente - TI,41,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,32,Masculino,3,4,-,-,-,-
+TI,Analista,Gerente - TI,27,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,36,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,30,Masculino,1,3,-,-,-,-
+TI,Gerente,Gerente - TI,56,Feminino,1,3,SIM,SIM,ÓTIMO,6
+TI,Analista,Gerente - TI,33,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,19,Masculino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,38,Feminino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,31,Feminino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,34,Feminino,2,3,-,-,-,-
+TI,Gerente,Gerente - TI,50,Masculino,3,3,SIM,SIM,ÓTIMO,9
+TI,Analista,Gerente - TI,53,Feminino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,33,Feminino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,40,Feminino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,55,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,34,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,51,Feminino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,52,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,27,Feminino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,35,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,43,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,45,Masculino,4,4,-,-,-,-
+TI,Analista,Gerente - TI,37,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,35,Feminino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,42,Feminino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,38,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,38,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,27,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,49,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,34,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,40,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,38,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,22,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,36,Feminino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,40,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,46,Masculino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,30,Masculino,3,4,-,-,-,-
+TI,Analista,Gerente - TI,51,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,30,Feminino,1,3,-,-,-,-
+TI,Analista,Gerente - TI,29,Masculino,3,3,-,-,-,-
+TI,Analista,Gerente - TI,36,Masculino,2,3,-,-,-,-
+TI,Analista,Gerente - TI,33,Feminino,2,4,-,-,-,-
+TI,Analista,Gerente - TI,37,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,31,Masculino,3,3,-,-,-,-
+TI,Especialista,Gerente - TI,59,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,29,Masculino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,52,Feminino,4,3,-,-,-,-
+TI,Analista,Gerente - TI,42,Masculino,4,3,-,-,-,-
